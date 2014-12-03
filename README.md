@@ -14,10 +14,6 @@
 ## Hint
 * Check the [pseudo code listed on wikipedia](http://en.wikipedia.org/wiki/Bubble_sort). Make sure you understand how it works.
 
-## Bonus
-
-* Check out the "In-place version" of Quicksort listed on wikipedia. Why do you think that version is faster? Try rewriting another quick_sort algorithm using the in-place version of quicksort. Benchmark it and see if there is a difference.
-
 ## For Fun Resources
 * [Animated Sorting Algorithms](http://www.sorting-algorithms.com/)
 * [Big O Cheat Sheet](http://bigocheatsheet.com/)
