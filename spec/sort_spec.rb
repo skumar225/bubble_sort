@@ -11,13 +11,3 @@ describe "bubble_sort" do
       expect((1..10).to_a.shuffle.bubble_sort).to eq((1..10).to_a)
   end
 end
-
-describe "opto_bsort" do
-  it "sorts the array" do
-      expect([5,3,2,1,4].opto_bsort).to eq([1,2,3,4,5])
-  end
-
-  it "sorts the array" do
-      expect((1..10).to_a.shuffle.opto_bsort).to eq((1..10).to_a)
-  end
-end
