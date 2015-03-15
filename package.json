@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/wdi-sf-fall/bubble_sort_morning_exercise",
   "dependencies": {
-    "mocha": "^2.2.1",
-    "chai": "^2.1.1",
     "jasmine-node": "^1.14.5"
   }
 }
