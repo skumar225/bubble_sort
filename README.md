@@ -3,7 +3,7 @@
 ## Learning Objectives
 * Describe how a Bubble Sort is performed and it's time complexity
 * Impliment a sorting algorithm in ruby
-* Offer a solution to optomize the algorithm
+* Offer a solution to optimize the algorithm
 
 ## To do
 
