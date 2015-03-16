@@ -1,13 +1,13 @@
 # Sorting Algorithms
 
 ## Learning Objectives
-* Describe how a Bubble Sort is performed and it's time complexity
-* Impliment a sorting algorithm in ruby
+* Describe how a Bubble Sort is performed and its time complexity
+* Implement a sorting algorithm in ruby
 * Offer a solution to optimize the algorithm
 
 ## To do
 
-* Run the `rspec` in the root directory of this directory.
+* Run the `rspec` command in the root directory of this project.
 
 * Use our pseudo code in class to try to get the tests to pass
 
